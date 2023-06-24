@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ac6f4b8-02b4-4e2d-bd10-2decd425a653" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12-baitap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt10/RemoveTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt11/NodeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt11/PostOder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt12/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt12/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt1_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt1_2/OutputCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt2_1/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt2_1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt2_1/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt2_1/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt2_1/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt2_2/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt3_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt4_2/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt5_1/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt6/MyTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt7/SecondMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt8/MinTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt/bt9/SortDownTreeMap.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RbBdWDRaA4pjT23OoQ4jljqZxe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Admin/IdeaProjects/SS12-baitap/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.bt.bt12.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt.bt1_1.Main" />
+      <module name="SS12-baitap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt.bt1_2.OutputCount" />
+      <module name="SS12-baitap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt.bt1_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt.bt2_1.ProductManager" />
+      <module name="SS12-baitap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt.bt2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bt.bt12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt.bt12.Main" />
+      <module name="SS12-baitap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt.bt12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bt.bt12.Main" />
+        <item itemvalue="Application.ProductManager" />
+        <item itemvalue="Application.OutputCount" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ac6f4b8-02b4-4e2d-bd10-2decd425a653" name="Changes" comment="" />
+      <created>1687508988857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687508988857</updated>
+      <workItem from="1687508990237" duration="2549000" />
+      <workItem from="1687514098805" duration="2205000" />
+      <workItem from="1687524366179" duration="3901000" />
+      <workItem from="1687528482617" duration="4572000" />
+      <workItem from="1687609007215" duration="4116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
